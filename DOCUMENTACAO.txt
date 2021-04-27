@@ -1,0 +1,9 @@
+Alunos: José victor Fernandes, Cairo demetrius.
+Instruções para uso do programa (maquina norma).
+
+- Os valores e instruções ficam definidos nos arquivos de texto(soma.txt, multiplicacao.txt, subtracao.txt).
+- Para alteração dos valores dos registradores basta alterar os valores dentro do parêntese na primeira linha dos arquivos de texto.
+
+Sites usados para sanar dúvidas: (https://docs.python.org/pt-br/3/library/re.html),
+(https://jornada.ifsuldeminas.edu.br/index.php/jcmuz/jcmuz/paper/viewFile/2125/1622)
+
